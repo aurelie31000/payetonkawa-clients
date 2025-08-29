@@ -1,7 +1,0 @@
-com\payetonkawa\product\controller\ProduitController.class
-com\payetonkawa\product\service\ProduitService.class
-com\payetonkawa\product\exception\ResourceNotFoundException.class
-com\payetonkawa\product\model\Produit.class
-com\payetonkawa\product\ProductApplication.class
-com\payetonkawa\product\config\RabbitMQConfig.class
-com\payetonkawa\product\repository\ProduitRepository.class
